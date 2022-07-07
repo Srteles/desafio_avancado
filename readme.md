@@ -1,6 +1,6 @@
 O objetivo do desafio é recriar uma aplicação, a partir de um layout,para treinar o que aprendeu nas aulas do Stage 02.
 
-<img src="images/desafio.png" alt="imagem do desafio">
+<img src="desafio.png" alt="imagem do desafio">
 
 Desafio em concluído!
 
